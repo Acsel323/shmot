@@ -1346,3 +1346,7 @@ a {
   height: 42px;
   background-repeat: no-repeat;
 }
+.img_red {
+  background-color: #C62626;
+  opacity: 70%;
+}
