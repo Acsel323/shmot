@@ -7,6 +7,19 @@
     <script src="javascripts/jquery-3.5.1.js" charset="utf-8"></script>
     <script src="javascripts/script.js" charset="utf-8"></script>
     <title>Шмот</title>
+    <script type="text/javascript">
+    $(document).ready(function(){
+      $(".like_hover").click(function(){
+        $(this).toggleClass("like_click");
+      });
+      $(".finger_hover").click(function(){
+        $(this).toggleClass("finger_click");
+      });
+      $(".favorites_hover").click(function(){
+        $(this).toggleClass("favorites_click");
+      });
+    });
+    </script>
   </head>
   <body>
     <div class="frame">
