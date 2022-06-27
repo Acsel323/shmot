@@ -557,8 +557,8 @@ flex-direction: row;
   width: 888px;
   height: 590px;
   margin-top: 0px;
-  background-repeat: no-repeat;
   background: url('../img/index/img2.svg')
+  background-repeat: no-repeat;
 }
 #grid_div_arrow {
   display: grid;
