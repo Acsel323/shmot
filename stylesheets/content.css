@@ -1080,10 +1080,7 @@ flex-direction: row;
   background: url('../img/icon1.svg');
   background-repeat: no-repeat;
 }
-.lend_frame1_button:hover {
-  background: #B7D5FA;
-  border: none;
-}
+
 .lend_frame5_button2:hover {
   background: #393939;
 }
