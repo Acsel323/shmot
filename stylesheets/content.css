@@ -1080,7 +1080,9 @@ flex-direction: row;
   background: url('../img/icon1.svg');
   background-repeat: no-repeat;
 }
-
+.lend_frame1_button:hover {
+  color: #B7D5FA;
+}
 .A_like:hover {
   background: url('../img/A_like_hover.svg')
 }
@@ -1397,6 +1399,7 @@ a {
   background-color: #E0E0E0;
   width: 100%;
   height: 900px;
+  background-color: #EBEBEB;
 }
 .lend_frame2 {
   position: relative;
