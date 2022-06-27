@@ -1085,6 +1085,19 @@ flex-direction: row;
   background: url('../img/icon1.svg');
   background-repeat: no-repeat;
 }
+
+.A_like:hover {
+  background: url('../img/A_like_hover.svg')
+}
+.A_like_article:hover {
+  background: url('../img/A_like_hover.svg')
+}
+.A_like_events:hover {
+  background: url('../img/A_like_hover.svg')
+}
+.A_like_shops:hover {
+  background: url('../img/A_like_hover.svg')
+}
 .hover_red {
   color: #B7D5FA;
 }
