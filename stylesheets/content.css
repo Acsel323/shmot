@@ -473,7 +473,7 @@ flex-direction: row;
   font-size: 18px;
   margin-top: 10px;
   margin-left: 0px;
-  color: #C62626;
+  color: #B7D5FA;
 }
 .header1_p2 {
   position: relative;
@@ -1086,25 +1086,25 @@ flex-direction: row;
   background-repeat: no-repeat;
 }
 .hover_red {
-  color: #C62626;
+  color: #B7D5FA;
 }
 .hover_blue {
   color: #B7D5FA;
 }
 .section3_p2:hover {
-  color: #C62626;
+  color: #B7D5FA;
   transition-delay: 100ms;
 }
 .header_p1:hover {
-  color: #C62626;
+  color: #B7D5FA;
   transition-delay: 100ms;
 }
 .header_p2:hover {
-  color: #C62626;
+  color: #B7D5FA;
   transition-delay: 100ms;
 }
 .header_p3:hover {
-  color: #C62626;
+  color: #B7D5FA;
   transition-delay: 100ms;
 }
 .section3_button1:hover {
@@ -1163,7 +1163,7 @@ flex-direction: row;
   transition-delay: 100ms;
 }
 .futer_s3_p:hover {
-  color: #C62626;
+  color: #B7D5FA;
   transition-delay: 100ms;
 }
 .icon1:hover {
@@ -1191,23 +1191,23 @@ a {
   transition-delay: 100ms;
 }
 .menu_s2_p1:hover {
-  color: #C62626;
+  color: #B7D5FA;
   transition-delay: 100ms;
 }
 .menu_s2_p2:hover {
-  color: #C62626;
+  color: #B7D5FA;
   transition-delay: 100ms;
 }
 .menu_s3_p1:hover {
-  color: #C62626;
+  color: #B7D5FA;
   transition-delay: 100ms;
 }
 .menu_s3_p2:hover {
-  color: #C62626;
+  color: #B7D5FA;
   transition-delay: 100ms;
 }
 .menu_s3_p3:hover {
-  color: #C62626;
+  color: #B7D5FA;
   transition-delay: 100ms;
 }
 .menu_grid1:hover {
@@ -1224,7 +1224,7 @@ a {
   transition-delay: 100ms;
 }
 /* .section5_img1:hover {
-  background-color: #C62626;
+  background-color: #B7D5FA;
   opacity: 30%;
 } */
 .like_click {
@@ -1236,7 +1236,7 @@ a {
   background-repeat: no-repeat;
 }
 .img_red {
-  background-color: #C62626;
+  background-color: #B7D5FA;
   opacity: 70%;
 }
 .shops_img1 {
