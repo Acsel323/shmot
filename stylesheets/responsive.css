@@ -1,0 +1,32 @@
+@media only screen and (min-width: 390px) and (max-width: 758px) {
+.lend_frame1 {
+  height: 990px;
+}
+.lend_frame2 {
+  height: 2021px;
+}
+.lend_frame3 {
+  height: 440px;
+}
+.lend_frame4 {
+  height: 1153px;
+}
+.lend_frame2 {
+  height: 844px;
+}
+.lend_frame1_p1 {
+  margin-left: 5%
+}
+.lend_frame1_p1 {
+  margin-left: 5%
+}
+.lend_frame1_button {
+  width: 350px;
+  height: 44px;
+  margin-left: 5%
+}
+#lend_grid1 {
+  position: relative;
+  display: none;
+}
+}
