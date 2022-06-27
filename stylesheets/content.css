@@ -1081,19 +1081,30 @@ flex-direction: row;
   background-repeat: no-repeat;
 }
 .lend_frame1_button:hover {
-  color: #B7D5FA;
+  background: #B7D5FA;
+  border: none;
+}
+.lend_frame5_button2:hover {
+  background: #393939;
+}
+.lend_frame5_button2 ~ .lend_frame5_button2_p:hover {
+  color: #FFFFFF;
 }
 .A_like:hover {
-  background: url('../img/A_like_hover.svg')
+  background: url('../img/A_like_hover.svg');
+  background-repeat: no-repeat;
 }
 .A_like_article:hover {
-  background: url('../img/A_like_hover.svg')
+  background: url('../img/A_like_hover.svg');
+  background-repeat: no-repeat;
 }
 .A_like_events:hover {
-  background: url('../img/A_like_hover.svg')
+  background: url('../img/A_like_hover.svg');
+  background-repeat: no-repeat;
 }
 .A_like_shops:hover {
-  background: url('../img/A_like_hover.svg')
+  background: url('../img/A_like_hover.svg');
+  background-repeat: no-repeat;
 }
 .hover_red {
   color: #B7D5FA;
@@ -1490,7 +1501,7 @@ a {
   height: 67px;
   background: url('../img/lending/logo.svg');
   margin-left: 39.2%;
-  margin-top: 43px;
+  top: 43px;
 }
 .lend_frame2_p1 {
   position: relative;
